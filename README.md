@@ -59,19 +59,3 @@ The predicted output is the math score.
 ## Navigate to the project directory
   ```bash
   cd MlProject
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
