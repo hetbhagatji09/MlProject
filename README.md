@@ -56,6 +56,25 @@ The predicted output is the math score.
    git clone https://github.com/hetbhagatji09/MlProject
    
 
-## Navigate to the project directory
-  ```bash
-  cd MlProject
+2. **Navigate to the project directory**
+   ```bash
+   cd MlProject
+3. **Install the dependencies**
+   ```bash
+   pip install -r requirements.txt
+4. **Run the Flask app:**
+   ```bash
+   python app.py
+5. **For Access the application
+Open your browser and go to**
+   ```bash
+   http://localhost:5000
+## Future Work
+
+- Explore additional features that may influence math scores.
+- Implement more complex models to improve prediction accuracy.
+- Deploy the model using cloud services for scalability.
+
+## Conclusion
+
+This project demonstrates the process of building an end-to-end machine learning model to predict math scores based on various factors. It highlights the importance of feature selection, model evaluation, and the deployment of a user-friendly interface.
