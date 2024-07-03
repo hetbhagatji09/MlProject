@@ -8,4 +8,6 @@ xgboost
 dataclasses
 dill
 flask
+mlflow
+dagshub
 #-e .
